@@ -1,7 +1,8 @@
 # KOReader Catified User Patches
 
 This is a Collection of patches I use and have catified. Author credit goes to the respective users.
-The base patches are from [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches/tree/main)
+
+The base patches are from [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches/tree/main). These customizations are an **addition** to those patches. Please follow the instructions in that repo, to install PT patches.
 
 ## How to use these patches
 Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches)
