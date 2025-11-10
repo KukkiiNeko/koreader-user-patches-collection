@@ -4,6 +4,8 @@ This is a Collection of patches I use and have catified. Author credit goes to t
 
 The base patches are from [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches/tree/main). These customizations are an **addition** to those patches. Please follow the instructions in that repo, to install PT patches.
 
+In addition you may also enjoy the [black cat supremacy iconspack](https://www.reddit.com/r/koreader/comments/1os7n7d/comment/nnvfdll/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) from AggravatingDebt4621 on Reddit
+
 ## How to use these patches
 Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches)
 
