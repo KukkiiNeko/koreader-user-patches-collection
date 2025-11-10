@@ -10,7 +10,7 @@ Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches
 
 ## 2-new-status-icons.lua catified
 - Download [2-new-status-icons.lua](https://github.com/SeriousHornet/KOReader.patches/blob/main/2-new-status-icons.lua) into `koreader/patches`
-- replace the dogear svgs with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
+- replace the `dogear` svgs with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
 - For bigger Icon size, adjust in `2-new-status-icons.lua` the line `local corner_mark_size = math.floor(math.min(self.width, self.height) / 8)` to any smaller divider.
   I am using 7.
   - `local corner_mark_size = math.floor(math.min(self.width, self.height) / 7)`
@@ -19,7 +19,7 @@ Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches
 
 ## 2-percent-badge.lua catified
 - Download [2-new-status-icons.lua](https://github.com/SeriousHornet/KOReader.patches/blob/main/2-new-status-icons.lua) into `koreader/patches`
-- replace the percentBadge svg with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
+- replace the `percent.badge.svg` with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
 - For better placement and size, adjust in `2-percent-badge.lua`
   - `text_size` = 0.26
   - `move_on_x` = -5
