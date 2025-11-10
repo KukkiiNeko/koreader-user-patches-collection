@@ -11,7 +11,14 @@ Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches
 
 ---
 
-## 2-new-status-icons.lua catified
+## 🐾 Catified look
+<img width="450" height="600" alt="FileManager_2025-11-10_210630" src="https://github.com/user-attachments/assets/a6e03afa-9d37-482a-9e74-6b47b3952325" />
+
+This includes the black cat supremacy pack for the menu icons
+
+---
+
+## 🐾 2-new-status-icons.lua catified
 - Download [2-new-status-icons.lua](https://github.com/SeriousHornet/KOReader.patches/blob/main/2-new-status-icons.lua) into `koreader/patches`
 - replace the `dogear` svgs with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
 - For bigger Icon size, adjust in `2-new-status-icons.lua` the line `local corner_mark_size = math.floor(math.min(self.width, self.height) / 8)` to any smaller divider.
@@ -20,7 +27,7 @@ Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches
 
 ---
 
-## 2-percent-badge.lua catified
+## 🐾 2-percent-badge.lua catified
 - Download [2-new-status-icons.lua](https://github.com/SeriousHornet/KOReader.patches/blob/main/2-new-status-icons.lua) into `koreader/patches`
 - replace the `percent.badge.svg` with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
 - For better placement and size, adjust in `2-percent-badge.lua`
