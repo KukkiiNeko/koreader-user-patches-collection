@@ -27,6 +27,7 @@ Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches
   - `move_on_y` = -13
   - `badge_w` = 75
   - `badge_h` = 42
+
 You may need to tweak this based on the screensize you are using.
 
 ---
