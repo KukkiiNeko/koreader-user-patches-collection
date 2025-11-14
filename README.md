@@ -28,7 +28,7 @@ This includes the black cat supremacy pack for the menu icons
 ---
 
 ## 🐾 2-percent-badge.lua catified
-- Download [2-new-status-icons.lua](https://github.com/SeriousHornet/KOReader.patches/blob/main/2-new-status-icons.lua) into `koreader/patches`
+- Download [2-pages-badge.lua](https://github.com/SeriousHornet/KOReader.patches/blob/main/2-pages-badge.lua) into `koreader/patches`
 - replace the `percent.badge.svg` with the cat version in [catIcons](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/main/icons%20catified) into `koreader/icons`
 - For better placement and size, adjust in `2-percent-badge.lua`
   - `text_size` = 0.26
