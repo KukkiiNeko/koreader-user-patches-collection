@@ -1,4 +1,4 @@
-# KOReader Catified User Patches
+# KOReader Catified User Patches and more
 
 This is a Collection of patches I use and have catified. Author credit goes to the respective users.
 
@@ -38,6 +38,15 @@ This includes the black cat supremacy pack for the menu icons
   - `badge_h` = 42
 
 You may need to tweak this based on the screensize you are using.
+
+---
+
+## Bookmark Screensaver
+These are transparent PNGs which show up like a bookmark in your book. Just add any of [Bookmark_Screensaver](https://github.com/KukkiiNeko/koreader-user-patches-collection/tree/f8eee80620608f5901a1de0dd8ea0d5691ecb03d/Bookmark_Screensaver) to your dedicated screensaver folder and select them in KOReader.
+
+You have permission to change the mark color of the grey ribbon bookmarks, but you cannot redistribute these. Personal use only!!
+
+<img width="1500" height="919" alt="Bookmarks" src="https://github.com/user-attachments/assets/8e584b8a-9cba-4c47-a191-c5cbd54e9167" />
 
 ---
 
