@@ -4,7 +4,8 @@ This is a Collection of patches I use and have catified. Author credit goes to t
 
 The base patches are from [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches/tree/main). These customizations are an **addition** to those patches. Please follow the instructions in that repo, to install PT patches.
 
-In addition you may also enjoy the [black cat supremacy iconspack](https://www.reddit.com/r/koreader/comments/1os7n7d/comment/nnvfdll/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) from AggravatingDebt4621 on Reddit
+In addition you may also enjoy the **new** [black cat supremacy iconspack](https://www.reddit.com/r/koreader/comments/1pft7uv/black_cat_supremacy_icon_updated_more_icons/) from _AggravatingDebt4621_ and _Additional-Scar-6262_ on Reddit.
+Important. Do **not** replace icons in _koreader/resources/icons/mdlight_. Those are the system icons, which you need as base. Add them in your _koreader/icons_ folder to overwrite them.
 
 ## How to use these patches
 Please [check the guide here.](https://koreader.rocks/user_guide/#L2-userpatches)
